@@ -4,4 +4,4 @@ This repository contains one (or more) implementation of the KataRomanNumerals i
 
 Branches
 --------
-* master : that branches only contains README and basic directory structure.
+* master : that branch only contains README and basic directory structure.
