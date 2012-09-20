@@ -6,4 +6,4 @@ Branches
 --------
 * master : that branch only contains README and basic directory structure.
 * implementation : an implementation of the kata.
-* digit_by_:digit : an implementation using a digit by digit conversion.
+* digit\_by\_digit : an implementation using a digit by digit conversion.
