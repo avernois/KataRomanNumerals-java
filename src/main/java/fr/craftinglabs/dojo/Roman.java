@@ -10,8 +10,7 @@ public class Roman {
 
     static public String convert(int arabic) {
 
-        String roman = "";
-        
+        String roman = "";        
         int position = 0;
 
         for (String digit : reverseDigits(arabic)) {
@@ -20,10 +19,6 @@ public class Roman {
         }
         
         return roman;
-    }
-
-    static private String stringRepeat(String string, int nb) {
-        return StringUtils.repeat(string, nb);
     }
 
     static private String convertDigit (String digits, String[] alphabet) {
